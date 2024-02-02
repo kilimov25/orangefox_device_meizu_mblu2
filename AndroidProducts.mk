@@ -1,2 +1,2 @@
-PRODUCT_MAKEFILES := $(LOCAL_DIR)/omni_mblu2.mk
-COMMON_LUNCH_CHOICES := omni_mblu2-eng
+PRODUCT_MAKEFILES := $(LOCAL_DIR)/twrp_mblu2.mk
+COMMON_LUNCH_CHOICES := twrp_mblu2-eng
